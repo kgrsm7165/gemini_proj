@@ -1,0 +1,114 @@
+[
+ [
+  "logic",
+  "첨단 로직",
+  "GPU · CPU · AP · ASIC",
+  [
+   "litho",
+   "dep",
+   "etch",
+   "clean",
+   "cmp",
+   "thermal",
+   "inspect",
+   "maint",
+   "infra",
+   "metal-wiring",
+   "implant"
+  ],
+  "미세 패턴·입체 트랜지스터·복잡한 배선이 주요 공정 과제입니다."
+ ],
+ [
+  "dram",
+  "DRAM",
+  "HBM용 DRAM · DDR5 · LPDDR",
+  [
+   "litho",
+   "dep",
+   "etch",
+   "clean",
+   "cmp",
+   "thermal",
+   "inspect",
+   "maint",
+   "infra",
+   "metal-wiring",
+   "implant"
+  ],
+  "HBM과 DDR5·LPDDR은 DRAM 전공정을 공유하지만 설계·공정 세대는 다를 수 있습니다. HBM의 TSV·적층·본딩은 여기에서 별도 범위입니다."
+ ],
+ [
+  "nand",
+  "3D NAND",
+  "기업용 SSD · 소비자 SSD · UFS",
+  [
+   "dep",
+   "etch",
+   "litho",
+   "clean",
+   "cmp",
+   "thermal",
+   "inspect",
+   "maint",
+   "infra",
+   "metal-wiring",
+   "implant"
+  ],
+  "수직 적층 구조에서 다층막 증착과 깊은 채널홀 식각이 핵심 과제입니다. SSD는 NAND 외에 컨트롤러 등도 포함합니다."
+ ],
+ [
+  "analog",
+  "MCU · 아날로그",
+  "제어 · PMIC · 통신 IC",
+  [
+   "litho",
+   "dep",
+   "etch",
+   "clean",
+   "thermal",
+   "inspect",
+   "cmp",
+   "maint",
+   "infra",
+   "metal-wiring",
+   "implant"
+  ],
+  "전압·정밀도·신뢰성에 맞는 다양한 공정을 사용합니다. 모두 최첨단 미세공정을 요구하는 것은 아닙니다."
+ ],
+ [
+  "power",
+  "전력 · RF 화합물",
+  "SiC · GaN 소자",
+  [
+   "epi",
+   "etch",
+   "dep",
+   "clean",
+   "thermal",
+   "inspect",
+   "litho",
+   "maint",
+   "infra",
+   "metal-wiring"
+  ],
+  "SiC·GaN은 재료와 소자 구조가 다릅니다. 에피택시 장비도 기판과 공정별로 구분해야 합니다."
+ ],
+ [
+  "sensor",
+  "이미지 센서",
+  "CIS · 차량 카메라",
+  [
+   "litho",
+   "dep",
+   "etch",
+   "clean",
+   "cmp",
+   "inspect",
+   "maint",
+   "infra",
+   "metal-wiring",
+   "implant"
+  ],
+  "픽셀 특성·암전류·결함 관리가 중요합니다. 적층 CIS의 본딩과 컬러필터 등 특화 공정은 이 초기 맵에서 생략합니다."
+ ]
+]

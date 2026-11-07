@@ -1,0 +1,1218 @@
+[
+ [
+  "하나머티리얼즈",
+  "etch",
+  "Si 전극 · Si 링",
+  "식각 챔버의 전극 및 웨이퍼 주변 링",
+  "가스·플라즈마 분포와 식각 균일도 관련. TEL 납품 품목별 매칭은 미확인",
+  "https://en.hanamts.com/product-temp/"
+ ],
+ [
+  "하나머티리얼즈",
+  "etch",
+  "SiC 링",
+  "내플라즈마 소모성 부품",
+  "Si 링과 재료 구분; 특정 장비 모델은 미확인",
+  "https://en.hanamts.com/product-temp2/"
+ ],
+ [
+  "티씨케이",
+  "etch",
+  "Solid SiC Ring",
+  "플라즈마 식각용 소모성 링",
+  "Lam 공급 관계와 이 제품의 모델별 채택은 별도 근거 필요",
+  "https://www.tck.co.kr/kor/business/SolidSiC.php"
+ ],
+ [
+  "비씨엔씨",
+  "etch",
+  "QD9 · QD9+ Single / Focus Ring",
+  "합성쿼츠 기반 식각 챔버 부품",
+  "공식 제품의 Etch Process 표기로 식각 연결. SiC 제품으로 분류하지 않음",
+  "https://www.bcnc.co.kr/en/business/list02.php"
+ ],
+ [
+  "비씨엔씨",
+  "etch",
+  "Silicon Electrode",
+  "식각 공정 가스 흐름·플라즈마 형성 제어",
+  "합성쿼츠 사업과 다른 실리콘 부품 제품군",
+  "https://www.bcnc.co.kr/en/business/list04.php"
+ ],
+ [
+  "원익QnC",
+  "maint",
+  "Tube · Boat · Ring / 세정·코팅",
+  "쿼츠 부품 및 사용 부품의 정밀세정",
+  "원익홀딩스 보고서의 원익큐엔씨 항목. 품목별 고객은 미확인",
+  "https://kind.krx.co.kr/external/2026/03/19/001775/20260319007334/11011.htm"
+ ],
+ [
+  "원익QnC",
+  "thermal",
+  "Diffusion용 Quartz · SiC 세정",
+  "열처리 장비 부품 유지관리",
+  "신규 장비 공급과 사용 부품 세정 서비스를 구분",
+  "https://kind.krx.co.kr/external/2026/03/19/001775/20260319007334/11011.htm"
+ ],
+ [
+  "원익QnC",
+  "etch",
+  "Liner · Electrode 세정/코팅",
+  "식각 장비 부품 유지관리",
+  "식각액·웨이퍼 세정 장비 사업을 뜻하지 않음",
+  "https://kind.krx.co.kr/external/2026/03/19/001775/20260319007334/11011.htm"
+ ],
+ [
+  "솔브레인",
+  "dep",
+  "TEOS",
+  "SiO₂ 박막 증착용 전구체",
+  "CVD/ALD 소재. 개별 고객·공정 세대 미확인",
+  "https://www.soulbrain.co.kr/m21.php"
+ ],
+ [
+  "솔브레인",
+  "dep",
+  "HfO₂ / ZrO₂ 전구체",
+  "High-k 박막 형성용 소재",
+  "물질군 확인. 특정 DRAM 세대의 채택을 의미하지 않음",
+  "https://www.soulbrain.co.kr/m21.php"
+ ],
+ [
+  "솔브레인",
+  "etch",
+  "인산계 등 습식 식각액",
+  "습식 식각 공정 화학소재",
+  "건식 플라즈마 식각 가스 및 챔버 부품과 구분",
+  "https://www.soulbrain.co.kr/m21.php"
+ ],
+ [
+  "후성",
+  "etch",
+  "C₄F₆",
+  "건식 식각 가스",
+  "특정 막질·고객·장비 모델 연결은 미확인",
+  "https://www.foosungchem.com/eng/pro/product_cdt_view01.asp"
+ ],
+ [
+  "후성",
+  "dep",
+  "WF₆",
+  "텅스텐계 증착 가스",
+  "식각 가스 C₄F₆와 분리. 특정 고객·공정 세대 미확인",
+  "https://www.foosungchem.com/eng/pro/product_cdt_view01.asp"
+ ],
+ [
+  "에프엔에스테크",
+  "cmp",
+  "CMP PAD",
+  "웨이퍼 평탄화용 패드",
+  "슬러리와 다른 소모 소재",
+  "https://www.fnstech.com/business/pad.php"
+ ],
+ [
+  "에프엔에스테크",
+  "maint",
+  "UV / Halogen Lamp",
+  "램프 제품군",
+  "반도체·디스플레이 사업 내 제품. 개별 용도의 공정 배정은 추가 확인 필요",
+  "https://fnstech.com/en/product/list.php"
+ ],
+ [
+  "삼양엔씨켐",
+  "litho",
+  "포토레지스트용 원료",
+  "PR 제조에 쓰이는 전자재료",
+  "완제품 PR와 구분. PR 제조사별 공급선 미확인",
+  "https://www.samyangncchem.com/kr"
+ ],
+ [
+  "ASML",
+  "litho",
+  "EUV 0.33 NA / High NA 0.55",
+  "노광 광학계 구분",
+  "고객별 도입 단계는 공급 관계 탭 참조",
+  "https://www.asml.com/en/products/euv-lithography-systems"
+ ],
+ [
+  "원익IPS",
+  "thermal",
+  "Diffusion Thermal System",
+  "반도체 확산·열처리 장비",
+  "원익홀딩스 보고서의 원익IPS 제품 항목에서 확인",
+  "https://kind.krx.co.kr/external/2026/03/19/001775/20260319007334/11011.htm"
+ ],
+ [
+  "피에스케이",
+  "clean",
+  "Dry Strip / Dry Clean",
+  "PR 제거 및 건식 세정",
+  "브이엠의 패턴 식각과 역할 구분",
+  "https://www.pskinc.com/producttech/products_overview.php"
+ ],
+ [
+  "케이씨",
+  "gasSupply",
+  "GSS / CCSS",
+  "가스 및 화학약품 공급 시스템",
+  "공정 소재 제조사와 구분. 고객별 직판/OEM 경유 미확인",
+  "https://www.kct.co.kr/"
+ ],
+ [
+  "미코",
+  "maint",
+  "반도체용 세라믹 파우더",
+  "세라믹 부품·코팅의 앞단 소재",
+  "코미코·미코세라믹스 대상 파우더 매출을 공식 FAQ에 명시. 전공정 지도이며 후공정 히터는 별도 범위",
+  "https://www.mico.kr/kr/invest/faq.php"
+ ],
+ [
+  "미코세라믹스",
+  "etch",
+  "세라믹 ESC 정전척",
+  "웨이퍼를 정전기력으로 고정하고 온도 관리",
+  "공개 제품 용도. 고객별 ESC 모델·식각 장비 채택은 미확인",
+  "https://www.micoceramics.com/kr/business/lcd.php"
+ ],
+ [
+  "미코세라믹스",
+  "dep",
+  "AlN 세라믹 히터",
+  "CVD·PECVD·ALD 챔버에서 웨이퍼 가열·온도 균일성 관리",
+  "전공정용 제품 용도. 고객별 히터·장비 모델은 미확인",
+  "https://www.micoceramics.com/kr/business/ceramic.php"
+ ],
+ [
+  "코미코",
+  "maint",
+  "반도체 장비 부품 정밀세정·특수코팅",
+  "부품 오염 제거 및 표면 보호·공정 안정성 관리",
+  "모든 ESC·히터·링을 동일하게 재생하는 것은 아님. 부품 상태·고객 규격에 따라 처리",
+  "https://kind.krx.co.kr/external/2026/03/23/002207/20260323009212/11011.htm"
+ ],
+ [
+  "월덱스",
+  "etch",
+  "Si Electrode · Cathode · Shower Head · Ring",
+  "식각 챔버용 실리콘 소모성 부품",
+  "공시 제품군. 품목별 고객·장비 모델·전극 위치는 별도 확인",
+  "https://kind.krx.co.kr/external/2026/05/15/000606/20260515001273/11013.htm"
+ ],
+ [
+  "월덱스",
+  "etch",
+  "Quartz Focus Ring · 2단 Ring",
+  "식각 장비의 쿼츠 링 제품군",
+  "공시 제품명·주요 식각 용도 기준. 천연·합성 등급과 고객별 채택 미확인",
+  "https://kind.krx.co.kr/external/2026/05/15/000606/20260515001273/11013.htm"
+ ],
+ [
+  "월덱스",
+  "etch",
+  "Fine Ceramic · SiC Ring 등",
+  "SiC·AlN·알루미나 등 내환경성 부품",
+  "SiC 제조법·등급·매출 비중을 TCK와 동일하다고 가정하지 않음",
+  "https://kind.krx.co.kr/external/2026/05/15/000606/20260515001273/11013.htm"
+ ],
+ [
+  "씨엠티엑스(CMTX)",
+  "etch",
+  "Si C-Shroud / Outer Ring · Electrode",
+  "챔버 가스·플라즈마 영역과 웨이퍼 가장자리 조건 관리",
+  "공식 식각 제품 용도. 특정 고객의 개별 품목·장비 모델은 미확인",
+  "https://www.cmtx.co.kr/page/31"
+ ],
+ [
+  "씨엠티엑스(CMTX)",
+  "dep",
+  "Ceramic Nozzle",
+  "CVD 공정의 반응가스 분사",
+  "공식 제품 용도. 정전척·히터 제조로 확대하지 않음",
+  "https://www.cmtx.co.kr/page/31"
+ ],
+ [
+  "씨엠티엑스(CMTX)",
+  "dep",
+  "Sapphire Parts · Nozzle / Injector",
+  "증착 등 장비용 고순도 사파이어 부품",
+  "CEO 인사말의 증착용 사파이어 부품과 품목 기준. 고객별 채택 미확인",
+  "https://www.cmtx.co.kr/page/12"
+ ],
+ [
+  "원익IPS",
+  "dep",
+  "PECVD · 반사방지막(ARC) / 산화막",
+  "노광 시 반사 억제 및 절연·패터닝용 박막",
+  "GEMINI 공개 적용 재료: SiON·a-Si·TEOS·PEOX·ALDOX. 소재·장비 이름과 특정 고객 공정의 채택을 구분",
+  "https://expo.semi.org/europa2025/Public/eBooth.aspx?BoothID=656491"
+ ],
+ [
+  "원익IPS",
+  "dep",
+  "ALD · 다양한 박막 공정",
+  "원자층 수준의 두께·균일성 제어",
+  "제품군 보유 확인. 특정 1c·HKMG 공정 점유율은 미확인",
+  "https://expo.semi.org/korea2026/Public/eBooth.aspx?BoothID=643313&Nav=False"
+ ],
+ [
+  "테스",
+  "dep",
+  "PECVD · ACL 하드마스크",
+  "후속 식각에서 패턴을 보호하는 희생막",
+  "대표 강점이며 전 제품이나 특정 노드 독점 공급을 뜻하지 않음",
+  "https://kind.krx.co.kr/external/2026/03/13/000829/20260313002306/11011.htm"
+ ],
+ [
+  "주성엔지니어링",
+  "dep",
+  "ALD · DRAM 커패시터 High-k 절연막",
+  "깊고 좁은 저장 구조의 절연막을 얇고 균일하게 형성",
+  "트랜지스터 HKMG와 구별. 커패시터 전극·게이트막 전체 공급으로 확대하지 않음",
+  "https://jusung.com/uploads/post/2026/05/563ff038ecf8397a53403f710e87cc46.pdf"
+ ],
+ [
+  "유진테크",
+  "dep",
+  "BlueJay · 단일 웨이퍼 Thermal LPCVD",
+  "도핑 폴리실리콘·SiGe·에피층의 두께·공정 안정성 제어",
+  "열 에너지를 쓰면서 저압에서 작동. LPCVD와 Thermal은 배타적 분류가 아님",
+  "https://www.eugenustech.com/products/blue-jay"
+ ],
+ [
+  "유진테크",
+  "dep",
+  "ALD · Harrier / QXP 제품군",
+  "반도체 박막 ALD 장비",
+  "제품군 보유 확인과 특정 고객의 1c 양산 채택은 별개",
+  "https://kind.krx.co.kr/external/2026/03/19/001192/20260319004927/11011.htm"
+ ],
+ [
+  "ASM",
+  "dep",
+  "ALD · High-k 게이트 / 금속막 / 스페이서",
+  "게이트 절연막·전극·패터닝용 박막",
+  "ALD는 절연막 전용이 아님. 고객별 공정 공급은 별도",
+  "https://www.asm.com/our-technology-products/ald"
+ ],
+ [
+  "ULVAC",
+  "dep",
+  "PVD · 스퍼터링",
+  "금속 배선·전극·패터닝용 막",
+  "공식 반도체 장비 용도. 고객별 특정 노드 채택 미확인",
+  "https://www.ulvac.co.jp/en/products/sputtering_system/entrontm_ex_w300/"
+ ],
+ [
+  "Applied Materials",
+  "dep",
+  "PVD · 배리어 / 구리 시드 / 알루미늄 패드",
+  "구리 확산 차단·후속 도금 바탕·외부 전기 연결",
+  "구리 배선 전체를 PVD로 채운다는 뜻이 아님",
+  "https://www.appliedmaterials.com/us/en/semiconductor/products/processes/pvd.html"
+ ],
+ [
+  "Applied Materials",
+  "dep",
+  "CVD · ALD · 절연막・금속막",
+  "기체 전구체 반응 및 원자층 수준 제어로 박막 형성",
+  "PVD·CVD·ALD를 복합적으로 제공. 막·공정별 경쟁 관계를 확인",
+  "https://www.appliedmaterials.com/us/en/semiconductor/products/create.html"
+ ],
+ [
+  "Lam Research",
+  "dep",
+  "CVD · ALD 절연막 및 금속막",
+  "배선·라이너·스페이서 등 박막",
+  "용도와 개별 고객 양산 채택은 구분",
+  "https://www.lamresearch.com/products/our-processes/deposition/"
+ ],
+ [
+  "Tokyo Electron",
+  "dep",
+  "CVD · ALD · PVD",
+  "복수 증착 방식의 장비 제공",
+  "장비별 처리 방식과 막 종류가 다름",
+  "https://www.tel.com/product/index.html"
+ ],
+ [
+  "Tokyo Electron",
+  "litho",
+  "CLEAN TRACK LITHIUS · 도포/현상",
+  "PR 도포·베이크·현상을 수행하는 트랙 장비",
+  "노광 스캐너와 역할 구분. ASML 하위 공급사라는 의미는 아님",
+  "https://www.tel.com/product/lithius.html"
+ ],
+ [
+  "동진쎄미켐",
+  "litho",
+  "PR · BARC · SOC · Thinner",
+  "도포·패터닝에 쓰이는 감광액·하부막·신너",
+  "제품군별 공급 역할. 개별 TEL 장비 채택은 미확인",
+  "https://www.dongjin.com/en/business/semiconductor.php"
+ ],
+ [
+  "에스앤에스텍",
+  "litho",
+  "블랭크마스크",
+  "포토마스크 제작용 원소재",
+  "완성된 패턴 마스크나 노광기 자체와 구분",
+  "https://snstech.co.kr/ko/business/blank-mask"
+ ],
+ [
+  "에프에스티",
+  "litho",
+  "반도체용 펠리클",
+  "노광 중 포토마스크의 오염을 방지하는 보호막",
+  "EUV/DUV 제품별 양산·고객 채택 여부는 별도 확인",
+  "https://www.fstc.co.kr/bbs/board.php?bo_table=page_pellicle_ko_2"
+ ],
+ [
+  "멜콘",
+  "litho",
+  "XPS / XCDA 정제 시스템",
+  "EUV·DUV 노광 장비용 환경 정제",
+  "공급사 등록과 제품별 납품·현재 매출은 구분",
+  "https://www.melcon.co.kr/page/product-2.html"
+ ],
+ [
+  "아이엠티",
+  "litho",
+  "EUV Mask Laser Baking",
+  "노광용 EUV 마스크의 레이저 열처리",
+  "현재 ASML 납품 미확인. 웨이퍼 양산 노광기 자체가 아님",
+  "https://imt-c.co.kr/eng/sub2_3_1.php"
+ ],
+ [
+  "이솔",
+  "litho",
+  "FREM · EUV 마스크 검사",
+  "마스크 CD·결함 전사 가능성 평가",
+  "0.33/0.55 NA 대응 제품 표기. ASML 직접 납품은 미확인",
+  "https://www.euvsol.com/sub/product/frem.php"
+ ],
+ [
+  "솔브레인",
+  "etch",
+  "HSN / H₃PO₄ · 고선택비 질화막 식각액",
+  "산화막을 최대한 보존하면서 질화막 제거. 대표 학습 예시는 3D NAND 희생막 제거",
+  "공식 제품 보유 확인. 특정 고객 공정·현재 점유율은 미확인",
+  "https://www.soulbrain.co.kr/en/m21.php"
+ ],
+ [
+  "엘티씨",
+  "etch",
+  "엘티씨에이엠 · DRAM/NAND용 식각액",
+  "자회사를 통한 반도체 습식 소재 사업",
+  "2026년 1분기 공시 확인. HSN의 고객·양산 세대·점유율은 별도 검증",
+  "https://kind.krx.co.kr/external/2026/05/14/000838/20260514001848/11013.htm"
+ ],
+ [
+  "엘티씨",
+  "clean",
+  "엘티씨에이엠 · 세정액 / CCSS",
+  "세정 약품과 중앙 약액 공급장치를 구분",
+  "엘에스이의 웨이퍼 세정 장비와 별개 사업",
+  "https://kind.krx.co.kr/external/2026/05/14/000838/20260514001848/11013.htm"
+ ],
+ [
+  "한솔케미칼",
+  "etch",
+  "고순도 과산화수소(H₂O₂) · 산화제",
+  "목적별 배합 식각액의 구성 성분으로 연결",
+  "고순도 원료 공급과 완성 배합액을 구분. 특정 배합 업체에 대한 납품 관계 미확인",
+  "https://kind.krx.co.kr/external/2026/03/18/002036/20260318009446/11011.htm"
+ ],
+ [
+  "한솔케미칼",
+  "clean",
+  "고순도 과산화수소 · 세정",
+  "불순물·입자·농도·안정된 품질 관리",
+  "삼성향 최신 비중 미확인. 전체 매출과 과산화수소 사업 내 비중을 구분",
+  "https://kind.krx.co.kr/external/2026/03/18/002036/20260318009446/11011.htm"
+ ],
+ [
+  "케이씨텍",
+  "clean",
+  "Wezen BF / BS · 300mm 배치식 세정",
+  "여러 웨이퍼를 약액조에서 처리 후 린스·IPA 건조",
+  "공정 기능 확인. 제품군별 DRAM/NAND/로직 및 고객 양산 매칭은 미확인",
+  "https://www.kctech.com/page/product1_2.php"
+ ],
+ [
+  "케이씨텍",
+  "clean",
+  "K-3000 · 매엽식 세정",
+  "독립 챔버에서 약액 처리·린스·건조. 공정 전 세정·폴리머 제거",
+  "SC-1·HF·BOE 등 공개 적용 범위. 특정 고객/세대 채택은 별도 근거 필요",
+  "https://www.kctech.com/page/product1_2.php"
+ ],
+ [
+  "케이씨텍",
+  "etch",
+  "K-3000 · Film Etch",
+  "막 식각과 웨이퍼 내 균일성 제어",
+  "HF·BOE 사용 공정 확인. 모든 NAND 인산 식각 지원으로 확대 해석하지 않음",
+  "https://www.kctech.com/page/product1_2.php"
+ ],
+ [
+  "제우스",
+  "clean",
+  "ION12 · 300mm 매엽식",
+  "FEOL/BEOL, 식각 후 및 공정 전후 세정. 흐름·배기 제어",
+  "공정 위치를 공개. DRAM/NAND 고객별 양산 배정은 미확인",
+  "https://www.globalzeus.com/kr/sub/products/detail.asp?p_idx=7"
+ ],
+ [
+  "제우스",
+  "clean",
+  "VENUS · 고온 SPM / PR 스트립",
+  "고온 황산·과산화수소 공정. 스트립·세정 챔버 분리",
+  "회사 명시 용도: PR strip, Post CMP cleaning, Post PLAD strip. 성능 우위 비교는 동일 조건 자료 필요",
+  "https://www.globalzeus.com/kr/sub/products/detail.asp?p_idx=11"
+ ],
+ [
+  "제우스",
+  "etch",
+  "Wet Etching & Cleaning 장비군",
+  "매엽식·배치식으로 습식 식각/세정 지원",
+  "제품군 확인. ION12나 VENUS의 모든 막 식각 기능을 일괄 확정하지 않음",
+  "https://www.globalzeus.com/kr/sub/products/list.asp?p_cate=1010"
+ ],
+ [
+  "Tokyo Electron",
+  "etch",
+  "EXPEDIUS · 3D NAND 고선택비 습식 식각",
+  "3D NAND 산화막/질화막 고선택비 습식 식각",
+  "장비와 적용 제품군·공정까지 공식 명시. 고객·층수·점유율은 미확인",
+  "https://www.tel.com/product/expedius.html"
+ ],
+ [
+  "Tokyo Electron",
+  "clean",
+  "EXPEDIUS · 배치식 세정/스트립",
+  "산화·확산 전 세정, 식각 후 세정, PR 스트립",
+  "동일 플랫폼의 여러 기능이며 고객의 실제 구성은 별도 확인",
+  "https://www.tel.com/product/expedius.html"
+ ],
+ [
+  "SCREEN",
+  "clean",
+  "FC-3100 Wet Station / SU-3400 Single Wafer Cleaner",
+  "배치식 웨트 스테이션과 매엽식 세정 장비군",
+  "공식 제품군 확인. 제품·고객별 약액/공정 채택은 미확인",
+  "https://www.screen.co.jp/spe/en/products"
+ ],
+ [
+  "SCREEN",
+  "etch",
+  "습식 식각 기술 · SiGe 등",
+  "IR 자료에서 로직 SiGe 식각 등 습식 식각 기술 설명",
+  "기술/적용 분야 발표 수준. 특정 모델의 고객 양산 채택으로 연결하지 않음",
+  "https://hdjp-corporateweb-files.screen.co.jp/7617/4911/1188/20240919_Mtg_E.pdf"
+ ],
+ [
+  "후성",
+  "etch",
+  "CH₂F₂",
+  "공식 명시: 반도체 건식 식각 가스",
+  "C₄F₆와 함께 식각용 제품으로 확인. WF₆는 텅스텐 증착용으로 별도 분류",
+  "https://www.foosungchem.com/eng/pro/product_cdt_view02.asp"
+ ],
+ [
+  "원익머트리얼즈",
+  "etch",
+  "C₄F₈ · SF₆ · CF₄ · CH₂F₂ 등",
+  "공식 Etching / Cleaning 제품군",
+  "모든 가스가 같은 막을 제거하는 것은 아님. 제품군 표기만으로 개별 고객/장비 모델 연결 불가",
+  "https://www.wimco.co.kr/kr/product/semiconductor/"
+ ],
+ [
+  "티이엠씨(TEMC)",
+  "etch",
+  "C₄F₆",
+  "공식 적용 분야: Dry Etching",
+  "특정 고객·막질·장비 모델·자체 합성 여부는 이 자료만으로 확정하지 않음",
+  "https://temc.co.kr/sub/sub02_04.php"
+ ],
+ [
+  "간토덴카",
+  "etch",
+  "CH₂F₂ · CH₃F · CHF₃ 등",
+  "반도체 식각용 불소계 가스",
+  "간토화학과 다른 기업. 여러 가스의 용도를 각각 확인",
+  "https://www.kantodenka.co.jp/english/product/gas/"
+ ],
+ [
+  "간토덴카",
+  "etch",
+  "KSG 제품군",
+  "고선택비 및 저GWP 식각 가스 개발",
+  "회사 공개 성능/개발 자료. 특정 고객 양산 채택이나 시장점유율은 미확인",
+  "https://www.kantodenka.co.jp/english/product_new/"
+ ],
+ [
+  "다이킨",
+  "etch",
+  "고순도 불소계 건식 식각 가스",
+  "반도체용 식각 소재",
+  "제품별 습식·건식 용도 구분. 특정 팹·장비 모델 채택은 미확인",
+  "https://www.daikinchemicals.com/solutions/products/semicon-etching-agents.html"
+ ],
+ [
+  "에어리퀴드",
+  "etch",
+  "enScribe",
+  "첨단 반도체 구조 가공용 식각 소재군",
+  "제품군 확인. 개별 성분·고객별 레시피·납품 점유율은 별도 검증",
+  "https://electronics.airliquide.com/enscribetm"
+ ],
+ [
+  "간토덴카",
+  "clean",
+  "NF₃ · 삼불화질소",
+  "대표 용도: 플라스마 CVD 장비 챔버 내부에 쌓인 막 제거",
+  "챔버 내부 청소와 웨이퍼 표면 청소를 구분. NF₃의 모든 용도를 챔버 세정으로 한정하지 않으며 특정 장비사/고객 납품은 미확인",
+  "https://www.kantodenka.co.jp/english/ir/ogms/Presentation202309.pdf"
+ ],
+ [
+  "원익머트리얼즈",
+  "clean",
+  "F₂ Mix 등 Etching / Cleaning 제품군",
+  "식각·세정용 가스 취급",
+  "제품별 사용 대상을 확인. 회사의 세정 가스 제품군을 웨이퍼 세정 전용이나 특정 장비 전용으로 해석하지 않음",
+  "https://www.wimco.co.kr/kr/product/semiconductor/"
+ ],
+ [
+  "피에스케이",
+  "clean",
+  "Plasma Oxide Cleaning / Dry Strip",
+  "웨이퍼의 불필요한 산화막 제거와 PR 제거를 각각 수행",
+  "웨이퍼 표면 준비·PR 스트립·장비 챔버 세정은 서로 다른 작업. 가스사와 일대일 납품 연결은 미확인",
+  "https://www.pskinc.com/producttech/products_overview.php"
+ ],
+ [
+  "Applied Materials",
+  "clean",
+  "Siconi Preclean · 공개 적용 사례",
+  "증착 전 웨이퍼 표면의 산화막 제거",
+  "2006년 공식 발표의 적용 사례. 현재 특정 모델/고객 채택의 근거로 확대하지 않음",
+  "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-delivers-key-technology-45nm-contacts-endura/"
+ ],
+ [
+  "케이엔제이",
+  "etch",
+  "CVD SiC 포커스링 · 애프터마켓 / 성장 포인트",
+  "제조사 직접 공급 · 가동 중인 건식 식각 장비의 교체용 부품",
+  "회사 설명(2026-10-14): 고객 평가·적용 기반이 반복발주로 연결, NAND에서 DRAM으로 적용 확대 및 해외 고객·공급 품목 확대 추진. 일반적 성장 분석: 가동률·고객 내 채택 비중 상승이 주문 증가 요인. 증설 CAPA는 실제 판매나 수주 확정을 뜻하지 않으며, 모든 공정 채택·향후 매출 증가는 미확정.",
+  "https://m.irgo.co.kr/IR자료/76830/TB/케이엔제이-기관투자자-대상-탐방-IR-성료-반도체-부품-반복발주-확대로-성장-사이클-진입"
+ ],
+ [
+  "원익QnC",
+  "thermal",
+  "Quartz Tube · Boat",
+  "열처리·산화·확산 장비의 공정 통과 웨이퍼 선반",
+  "대만법인 공개 제품 기준. 고객별 장비·모델 미확인",
+  "https://semicon-tw-2026.omnimatcher.com/info/exhibitors/wonik-quartz-taiwan-co-ltd.en.html"
+ ],
+ [
+  "원익QnC",
+  "dep",
+  "배치식 CVD용 Quartz Tube · Boat",
+  "여러 장의 웨이퍼를 배열·지지하고 증착 공정 공간 구성",
+  "세라믹 히터·ESC 공급으로 확대 해석하지 않음",
+  "https://semicon-tw-2026.omnimatcher.com/info/exhibitors/wonik-quartz-taiwan-co-ltd.en.html"
+ ],
+ [
+  "원익QnC",
+  "etch",
+  "Quartz Shield / Focus Ring",
+  "플라스마 식각 장비의 웨이퍼 주변 부품",
+  "대만법인 제품 용도 확인. 개별 고객 채택·재료 등급 미확인",
+  "https://semicon-tw-2026.omnimatcher.com/info/exhibitors/wonik-quartz-taiwan-co-ltd.en.html"
+ ],
+ [
+  "SK스페셜티",
+  "clean",
+  "NF₃ · 삼불화질소",
+  "장비 챔버 내부에 쌓인 잔류막 제거용 가스",
+  "과거 SK머티리얼즈 특수가스 사업에서 이어진 NF₃ 생산·공급사. 식각가스 공급사 SK레조낙과 별도 법인. 대표 용도는 증착 장비 챔버 내부 잔류막 제거. 웨이퍼 세정·PR 제거·패턴 식각과 구분하며 NF₃의 다른 용도를 배제하지 않음. 특정 장비사·고객·공정 세대 납품은 별도 확인.",
+  "https://www.skspecialty.com/new/kor/html/products/Business_Information.asp"
+ ],
+ [
+  "효성네오켐",
+  "clean",
+  "NF₃ · 삼불화질소",
+  "장비 챔버 내부에 쌓인 잔류막 제거용 가스",
+  "효성티앤씨 자회사. 효성화학 특수가스 사업을 양수하여 2025-02-01부터 운영. 과거 효성화학 자료와 현재 운영 주체를 구분. 대표 용도는 증착 장비 챔버 내부 잔류막 제거. 웨이퍼 세정·PR 제거·패턴 식각과 구분하며 NF₃의 다른 용도를 배제하지 않음. 특정 장비사·고객·공정 세대 납품은 별도 확인.",
+  "https://kind.krx.co.kr/external/2026/05/14/001471/20260514003197/11013.htm"
+ ],
+ [
+  "솔브레인",
+  "etch",
+  "HSN · 인산계 식각액",
+  "질화막 SiN → 산화막을 보존하면서 질화막을 선택적으로 제거",
+  "기존 맵의 공식 제품 근거 / 고객별 공정 채택 별도",
+  "https://www.soulbrain.co.kr/en/m21.php"
+ ],
+ [
+  "솔브레인",
+  "etch",
+  "HF · BOE",
+  "산화막 SiO₂ → 제거할 산화막을 불산계 약액으로 식각",
+  "공식 제품·용도 확인 / 고객별 제품 배정 별도",
+  "https://www.soulbrain.co.kr/en/m21.php"
+ ],
+ [
+  "이엔에프테크놀로지",
+  "etch",
+  "50% HF · BOE",
+  "산화막 SiO₂ → 반도체용 불산계 식각 제품군",
+  "공식 제품 목록 확인 / 제품별 양산 고객 미확인",
+  "https://www.enftech.com/en/business/process-chemical/"
+ ],
+ [
+  "이엔에프테크놀로지",
+  "etch",
+  "HSN",
+  "질화막 SiN → 질화막 식각용 제품군 / 세부 조성·선택비 별도",
+  "공식 제품 목록 확인 / 특정 고객 양산 공급 별도 확인",
+  "https://www.enftech.com/en/business/process-chemical/"
+ ],
+ [
+  "램테크놀러지",
+  "etch",
+  "HF · BOE",
+  "산화막 SiO₂ → 공식 제품표에 실리콘 산화막 식각 명시",
+  "공식 제품·용도 확인 / 고객별 채택 별도",
+  "https://ramtech.co.kr/m21.php"
+ ],
+ [
+  "램테크놀러지",
+  "etch",
+  "H₃PO₄ · 인산",
+  "질화막 SiN → 실리콘 질화막의 선택적 식각",
+  "공식 제품·용도 확인 / 고객별 채택 별도",
+  "https://ramtech.co.kr/m21.php"
+ ],
+ [
+  "엘티씨에이엠",
+  "etch",
+  "DRAM · NAND용 식각액",
+  "막별 추가 확인 → 엘티씨 → 자회사 엘티씨에이엠 → 습식 식각 소재",
+  "공시에서 생산·국내 공급 확인 / 막·약액별 연결 추가 확인",
+  "https://kind.krx.co.kr/external/2026/05/14/000838/20260514001848/11013.htm"
+ ],
+ [
+  "스텔라케미파",
+  "etch",
+  "HF · BHF · HG 시리즈",
+  "산화막 SiO₂ → HG는 알루미늄 식각을 억제하는 산화막 식각액",
+  "공식 제품·용도 확인 / 특정 팹 채택 미확인",
+  "https://www.stella-chemifa.co.jp/products/cat1/"
+ ],
+ [
+  "간토화학",
+  "etch",
+  "NaOHLM · NaOHLM-CX",
+  "실리콘 Si → NaOH 기반 실리콘 식각 / CX는 금속 흡착 억제",
+  "공식 제품·용도 확인 / 간토덴카와 별도 기업",
+  "https://www.kanto.co.jp/english/products/denshi/performance_chemicals/etchants/si_etchant.html"
+ ],
+ [
+  "인테그리스",
+  "etch",
+  "Selective nitride etchants",
+  "질화막 SiN → 보존할 주변 재료와 구분해 질화막을 선택적으로 제거",
+  "공식 포트폴리오 등재 / 최신 제품·양산 고객 추가 확인",
+  "https://www.entegris.com/content/dam/web/resources/data-sheets/datasheet-surface-preparation-and-integration-comprehensive-portfolio-10380.pdf"
+ ],
+ [
+  "인테그리스",
+  "etch",
+  "TitanKlean 9 기반 조성",
+  "질화티타늄 TiN → TiN 제거 시험 / 실리콘 질화막 SiN과 구분",
+  "2016년 공식 기술자료 / 현재 양산 공급 확인 아님",
+  "https://www.entegris.com/content/dam/web/resources/poster/poster-beol-tin-removal-ucpss-2016.pdf"
+ ],
+ [
+  "도소(Tosoh)",
+  "dep",
+  "PVD · Ti · Ta 고체 타깃",
+  "Ti · Ta 금속막",
+  "공식 제품 확인 / 고객별 양산 채택 미확인",
+  "https://www.tosoh.co.jp/product/functionality/metal_target.html"
+ ],
+ [
+  "린데 AMT",
+  "dep",
+  "PVD · Ti · Ta 고체 타깃",
+  "Ti · Ta 금속막",
+  "공식 제품 확인 / 고객별 양산 채택 미확인",
+  "https://www.linde-amt.com/electronics/sputtering-targets"
+ ],
+ [
+  "JX첨단금속",
+  "dep",
+  "PVD · Cu · Ti 고체 타깃",
+  "Cu · Ti 금속막",
+  "공식 제품·용도 확인 / 고객별 공급 미확인",
+  "https://www.jx-nmm.com/english/products/sputtering/semiconductor_st/"
+ ],
+ [
+  "Materion",
+  "dep",
+  "PVD · Ta 스퍼터링 타깃",
+  "Ta 금속막",
+  "공식 반도체용 제품 확인 / 고객별 공급 미확인",
+  "https://www.materion.com/en/products/electronic-materials/thin-film-deposition-materials/specialty-sputtering-targets/tantalum-sputtering-targets"
+ ],
+ [
+  "SK트리켐",
+  "dep",
+  "CVD·ALD · BTBAS · 3DMAS 등 Si계 제품군",
+  "산화막 SiO₂",
+  "제품군 기준 두 방식 명시 / 개별 제품·조건별 확인 필요",
+  "https://www.sk-materials.com/new/eng/html/subsidiary/trichem.asp"
+ ],
+ [
+  "SK트리켐",
+  "dep",
+  "ALD · CpZr · SKZ300",
+  "고유전율막 ZrO₂",
+  "제품·ALD 적용 명시 / CVD 사용 불가능이라는 뜻 아님",
+  "https://www.sk-materials.com/new/eng/html/subsidiary/trichem.asp"
+ ],
+ [
+  "SK트리켐",
+  "dep",
+  "ALD · CpHf",
+  "고유전율막 HfO₂",
+  "제품·ALD 적용 명시 / 특정 고객 채택 미확인",
+  "https://www.sk-materials.com/new/eng/html/subsidiary/trichem.asp"
+ ],
+ [
+  "디엔에프",
+  "dep",
+  "CVD·ALD · 실리콘계 전구체 제품군",
+  "산화막 SiO₂ · 질화막 SiN",
+  "공식 제품군 확인 / 개별 조건·고객 매칭 별도",
+  "https://www.dnfsolution.com/sub010301"
+ ],
+ [
+  "솔브레인",
+  "dep",
+  "CVD·ALD 제품군 · TEOS · ZrO₂/HfO₂용 제품 · TiCl₄ 등",
+  "산화막 · High-k · 확산방지막",
+  "제품군 확인 / 제품별 증착 방식은 추가 대조",
+  "https://www.soulbrain.co.kr/m21.php"
+ ],
+ [
+  "유피케미칼",
+  "dep",
+  "CVD·ALD 제품군 · ALD/CVD 전구체",
+  "High-k · 절연막 · 전극 · 배선",
+  "일부 제품 양산 사용 공식 명시 / 제품별 고객·방식 별도",
+  "https://www.upchem.co.kr/eng/rnd/rnd.php"
+ ],
+ [
+  "에어리퀴드",
+  "dep",
+  "CVD·ALD 제품군 · ALOHA 증착 전구체",
+  "실리콘계 · 금속계 박막",
+  "제품군 기준 두 방식 확인 / 제품별 적용 대조 필요",
+  "https://electronics.airliquide.com/alohatm"
+ ],
+ [
+  "한솔케미칼",
+  "dep",
+  "추가 확인 · 전구체 사업·개발 제품군",
+  "실리콘계 · 금속계 · High-k",
+  "사업·고객 판매 공시 / 제품별 CVD·ALD·양산 상태 미확인",
+  "https://kind.krx.co.kr/external/2026/03/18/002036/20260318009446/11011.htm"
+ ],
+ [
+  "OCI",
+  "dep",
+  "추가 확인 · HCDS",
+  "실리콘계 박막 원료",
+  "제품·DRAM/NAND 증착 용도 확인 / 세부 방식 미확인",
+  "https://www.oci.co.kr/en/products/semiconductor/HCDS"
+ ],
+ [
+  "머크",
+  "dep",
+  "추가 확인 · 박막 소재 / Mo·Ru·Co 전구체 등 개발",
+  "실리콘계 · 금속산화물 · 금속막",
+  "판매 사업과 개발 항목 구분 / 개별 방식·양산 별도",
+  "https://www.reports.emdgroup.com/en/annualreport/2025/management-report/fundamental-information-about-the-group/research-and-development/electronics.html"
+ ],
+ [
+  "트리케미칼",
+  "dep",
+  "추가 확인 · TEMAH · TEMAZr · 3DMAS · TiCl₄ 등",
+  "High-k · 산화막 · 저유전율막 · 금속/방지막",
+  "공식 제품표 확인 / 제품별 CVD·ALD 적용 추가 대조",
+  "https://trichemical.com/english/products/products01.html"
+ ],
+ [
+  "케이씨텍",
+  "cmp",
+  "CMP 장비 · W/Cu/Oxide",
+  "연마·세정 통합, 좌우 독립 운전, 작은 설치 면적",
+  "공식 제품 적용 범위. 개별 고객·막별 점유율·상대 성능 우위 미확인",
+  "https://www.kctech.com/eng/page/product1.php"
+ ],
+ [
+  "케이씨텍 소재",
+  "cmp",
+  "Ceria Slurry · 선택비 조절 첨가제",
+  "산화막 연마 / 질화막·Poly-Si 대비 선택비 조절",
+  "공식 제품 기능. 선택비는 슬러리·패드·압력·공정 조건에 의존",
+  "https://www.kctech.com/page/product3.php"
+ ],
+ [
+  "케이씨텍 소재",
+  "cmp",
+  "W Bulk / W Buff Slurry",
+  "벌크 제거와 텅스텐 표면 형상 조절용 마무리 연마",
+  "장비의 특정 고객 양산 공정과 별도인 소재 제품 근거",
+  "https://www.kctech.com/page/product3.php"
+ ],
+ [
+  "케이씨텍 소재",
+  "cmp",
+  "Post CMP Cleaning Chemical",
+  "연마 입자·유기 잔류물·금속 불순물 제거",
+  "CMP 후 세정액 / CMP 연마액과 구분",
+  "https://www.kctech.com/page/product3.php"
+ ],
+ [
+  "Applied Materials",
+  "cmp",
+  "Reflexion LK CMP",
+  "연마 종료 감지·막 두께 계측·공정 제어와 세정 통합",
+  "공식 제품 기능 / 경쟁사 대비 우위·고객별 모델 채택은 별도",
+  "https://www.appliedmaterials.com/eu/en/product-library/reflexion-lk-cmp.html"
+ ],
+ [
+  "에바라",
+  "cmp",
+  "F-REX CMP",
+  "모듈 구성·연속 운전·연마 후 세정 통합",
+  "종료 감지·막 두께 측정 옵션. 제품 모델·구성별 확인 필요",
+  "https://www.ebaratech.com/products/brochure/chemical-mechanical-planarization-systems/"
+ ],
+ [
+  "Applied Materials",
+  "metal-wiring",
+  "구리 배선 · Barrier/Seed · ECD · CMP",
+  "얇은 방지막·시드층 형성, 전기 도금 채움, 과잉 구리 제거를 공정 흐름으로 연결",
+  "공식 구리 배선 공정 자료. 특정 고객의 장비 조합·양산 채택을 의미하지 않음",
+  "https://ir.appliedmaterials.com/static-files/fb8a1b4a-210a-4e44-84ff-0c9b336945af"
+ ],
+ [
+  "Applied Materials",
+  "implant",
+  "VIISta · 이온주입",
+  "이온주입 장비. Varian 사업 계보. 특정 고객·제품 양산 채택은 별도 근거 필요",
+  "제품 역할·개발 상태 기준. 고객 공급 관계와 구분",
+  "https://www.appliedmaterials.com/kr/ko/semiconductor/products/processes/implant/viista-900-3d.html"
+ ],
+ [
+  "Axcelis",
+  "implant",
+  "Purion · 이온주입",
+  "메모리·로직·전력반도체 이온주입. 한국 평택 AAOC는 미국 기업의 국내 제조거점",
+  "제품 역할·개발 상태 기준. 고객 공급 관계와 구분",
+  "https://www.axcelis.com/applications/ion-implantation-dram-nand-memory/"
+ ],
+ [
+  "스미토모중공업 머티리얼 솔루션즈",
+  "implant",
+  "고전류 · 중전류 · 고에너지 이온주입",
+  "Sumitomo Heavy Industries Material Solutions. 과거 SMIT 명칭과 구분",
+  "제품 역할·개발 상태 기준. 고객 공급 관계와 구분",
+  "https://shi-ms.com/en/products/"
+ ],
+ [
+  "닛신이온기기",
+  "implant",
+  "중전류 · 고온 이온주입",
+  "Nissin Ion Equipment. IMPHEAT 등 전력반도체용 장비",
+  "제품 역할·개발 상태 기준. 고객 공급 관계와 구분",
+  "https://www.nissin-ion.co.jp/en/prd/ion-implanter/io/"
+ ],
+ [
+  "나인벨",
+  "implant",
+  "이온주입 시스템 · 국산화 추진",
+  "이온주입 시스템 관련 특허 확인. 특허는 완성 장비의 고객 인증·양산 공급 완료를 뜻하지 않음. 완성 장비 상용 공급 상태는 추가 확인 필요",
+  "제품 역할·개발 상태 기준. 고객 공급 관계와 구분",
+  "https://patents.google.com/patent/US20250062100A1/en"
+ ],
+ [
+  "AP시스템",
+  "thermal",
+  "램프 RTP · 급속 열처리",
+  "RTP 제품 공개. 특정 세대·고객 적용 층은 별도 확인",
+  "제품 역할 확인 · 특정 고객 납품 주장 아님",
+  "https://kind.krx.co.kr/external/dst/irReference/17244/AP%20Systems%20IR%20Presentation_2025.pdf"
+ ],
+ [
+  "알엔알랩",
+  "thermal",
+  "포인트 스캔 레이저 어닐링",
+  "ALP-300M 및 고속 스캐닝 기술 공개. 고객 양산 실적은 별도 검증",
+  "제품 역할 확인 · 특정 고객 납품 주장 아님",
+  "https://rnr-lab.com/about"
+ ],
+ [
+  "오로스테크놀로지",
+  "inspect",
+  "오버레이 · 전공정/첨단 패키징",
+  "층간 패턴 위치 어긋남 계측. 노광기 자체의 얼라인먼트 기능과 구분",
+  "공식 제품 역할 · 특정 고객 공급과 구분",
+  "https://www.aurostech.com/new/business/wafer_overlay_metrology.html"
+ ],
+ [
+  "Bruker",
+  "inspect",
+  "자동화 AFM · InSight 300",
+  "인라인 표면 거칠기·CMP·식각 깊이 계측. 파크시스템스와 제품별 비교",
+  "공식 제품 역할 · 특정 고객 공급과 구분",
+  "https://www.bruker.com/en/products-and-solutions/semiconductor-solutions/automated-afm-and-cipt-systems/insight-300.html"
+ ],
+ [
+  "Nearfield Instruments",
+  "inspect",
+  "병렬 AFM · QUADRA",
+  "여러 소형 AFM 헤드 병렬 구조. 속도는 동일 조건에서 비교하며 고객 양산 범위는 별도 검증",
+  "공식 제품 역할 · 특정 고객 공급과 구분",
+  "https://www.nearfieldinstruments.com/portfolio/nearfield-instruments-announces-purchase-order-from-manufacturing-fab-in-asia/"
+ ],
+ [
+  "Oxford Instruments Asylum Research",
+  "inspect",
+  "연구용 AFM · 재료·전기 특성",
+  "반도체 R&D용 원자현미경. 생산라인 자동화 AFM과 비교 범위 구분",
+  "공식 제품 역할 · 특정 고객 공급과 구분",
+  "https://afm.oxinst.com/application-detail/afm-for-semiconductor-and-microelectronics-research"
+ ],
+ [
+  "히타치하이테크",
+  "inspect",
+  "CD-SEM · 선폭 계측·검사",
+  "전자빔 기반 미세 치수 계측과 결함 검사. 상세 학습은 다음 순서",
+  "공식 제품 역할 · 특정 고객 공급과 구분",
+  "https://www.hitachi-hightech.com/global/en/products/semiconductor-manufacturing/cd-sem/"
+ ],
+ [
+  "Nova",
+  "inspect",
+  "형상 · 박막 · 재료 계측",
+  "광학·재료·화학 계측 제품군. 다음 학습에서 측정 원리별 비교",
+  "공식 제품 역할 · 특정 고객 공급과 구분",
+  "https://www.novami.com/products/products-overview"
+ ],
+ [
+  "Onto Innovation",
+  "inspect",
+  "광학 계측 · 검사",
+  "전공정·첨단 패키징의 계측·검사 제품군. 다음 학습에서 상세 비교",
+  "공식 제품 역할 · 특정 고객 공급과 구분",
+  "https://ontoinnovation.com/product-categories/metrology/"
+ ],
+ [
+  "넥스틴",
+  "inspect",
+  "AEGIS · 광학 패턴 검사",
+  "355nm UV 레이저·CMOS(BF/DF) 영상 비교. 모델별 사양 구분",
+  "회사 공시. 모든 제품이 UV·표면 검사인 것은 아님",
+  "https://kind.krx.co.kr/external/2026/05/15/002049/20260515004541/11013.htm"
+ ],
+ [
+  "넥스틴",
+  "inspect",
+  "IRIS · NIR + TSOM",
+  "초점별 영상 신호로 접근 가능한 적층 내부/하부의 결함·깊이 정보 분석",
+  "인텔 공동개발과 판매를 구분. X선 CT와 다른 원리",
+  "https://www.ir52.com/award/weekly.asp?jscd=030&smenu=award&stitle=weekly&wk=34&yy=2025"
+ ],
+ [
+  "Applied Materials",
+  "inspect",
+  "Enlight · SEMVision · eBeam",
+  "광학 검사와 전자빔 리뷰·검사를 연결하는 공정 제어 포트폴리오",
+  "제품 역할 연결. 넥스틴과 모든 사양이 동일한 경쟁은 아님",
+  "https://www.appliedmaterials.com/kr/ko/semiconductor/products/processes/metrology-and-inspection.html"
+ ],
+ [
+  "ASML",
+  "inspect",
+  "YieldStar · HMI",
+  "광학 오버레이/포커스 계측과 전자빔 검사·치수 계측",
+  "노광기만 만드는 회사로 한정하지 않음",
+  "https://www.asml.com/products/metrology-and-inspection-systems"
+ ],
+ [
+  "KLA",
+  "inspect",
+  "광학·전자빔 검사, 오버레이·치수·박막 계측",
+  "제품군·원리를 구분하여 글로벌·국내 기능 매칭 학습에서 비교",
+  "기능 역할 · 공급 관계 아님",
+  "https://www.kla.com/products/chip-manufacturing"
+ ],
+ [
+  "Applied Materials",
+  "inspect",
+  "광학 검사·전자빔 검사/리뷰·치수 계측",
+  "제품군·원리를 구분하여 글로벌·국내 기능 매칭 학습에서 비교",
+  "기능 역할 · 공급 관계 아님",
+  "https://www.appliedmaterials.com/us/en/semiconductor/products/processes/process-diagnostics-and-control.html"
+ ],
+ [
+  "ASML",
+  "inspect",
+  "YieldStar 오버레이·초점 및 HMI 전자빔 제품군",
+  "제품군·원리를 구분하여 글로벌·국내 기능 매칭 학습에서 비교",
+  "기능 역할 · 공급 관계 아님",
+  "https://www.asml.com/en/products/metrology-and-inspection-systems"
+ ],
+ [
+  "아스플로",
+  "gasSupply",
+  "고청정 튜브·파이프 / 피팅 / 밸브·레귤레이터 / 필터·디퓨저",
+  "설비·장비용 단품·모듈. 시공사와 구분",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://kind.krx.co.kr/external/2026/03/16/002276/20260316006494/11011.htm"
+ ],
+ [
+  "디케이락",
+  "gasSupply",
+  "반도체 UHP 피팅·밸브",
+  "연결·밀봉·흐름 제어. 일반 산업용 전체를 반도체용으로 분류하지 않음",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://dklok.com/business-area/semiconductor/semiconductor-display"
+ ],
+ [
+  "비엠티",
+  "gasSupply",
+  "UHP 피팅·밸브 / 레귤레이터·필터 / 가스 패널",
+  "공개 전시 제품 범위. 개별 고객·제품 채택 별도 확인",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://expo.semi.org/korea2026/Public/eBooth.aspx?BoothID=642140"
+ ],
+ [
+  "Swagelok",
+  "gasSupply",
+  "고순도 피팅·밸브 / ALD 고속 밸브",
+  "국내 기업과 제품별 기능 비교. 일괄 대체 의미 아님",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://products.swagelok.com/en/all-products/valves/atomic-layer-deposition-ald-valves/c/261"
+ ],
+ [
+  "Fujikin",
+  "gasSupply",
+  "UHP 밸브·피팅 / 집적 가스 시스템",
+  "개별 부품과 IGS 시스템 구분",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://www.fujikin.co.jp/ja/support/examples/semiconductor.html"
+ ],
+ [
+  "Parker",
+  "gasSupply",
+  "고순도 튜빙·피팅 / Veriflo 밸브·레귤레이터",
+  "가스·액체별 재질과 제품 구분",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://corpapps.parker.com/interactive-media/parker-hannifin-world/semiconductor-ecosystem-industrial-manufacturing/semiconductor-manufacturing-plant.html"
+ ],
+ [
+  "원익홀딩스",
+  "gasSupply",
+  "가스 캐비닛·BSGS·VMB / 정제기·전구체 공급 / 특수가스 배관·모니터링",
+  "원익IPS의 증착·열처리 장비와 별도. 플라즈마 스크러버도 공개",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://en.wonikholdings.kr/biz_01.do"
+ ],
+ [
+  "케이씨",
+  "gasSupply",
+  "가스 캐비닛·BSGS·VMB·혼합 시스템 / CCSS",
+  "공급·분배 시스템. 케이씨텍의 CMP·세정 장비와 구분",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://www.kct.co.kr/page/product1.php"
+ ],
+ [
+  "HORIBA",
+  "gasSupply",
+  "반도체용 MFC / 정밀 유량 제어",
+  "투입 유량 제어. 레귤레이터·배기 압력 밸브와 구분",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://www.horiba.com/kor/semiconductor/products/mass-flow-controller-and-module/"
+ ],
+ [
+  "MKS",
+  "gasSupply",
+  "MFC / 유량·압력 제어 제품군",
+  "가스·유량 범위·응답·반복정밀도별 비교",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://www.mks.com/c/flow-control"
+ ],
+ [
+  "VAT",
+  "infra",
+  "진공 압력 제어 밸브·차단 밸브",
+  "공급 배관용 밸브와 진공 배기 밸브 구분",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://www.vatgroup.com/solutions/semiconductor-production/process-control-isolation"
+ ],
+ [
+  "엘오티베큠",
+  "infra",
+  "반도체용 드라이 진공펌프",
+  "초기 진공 형성과 공정 중 배기. 배기가스 무해화와 별도",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://www.lotvacuum.com/business/semiconductor_eng.php"
+ ],
+ [
+  "Edwards",
+  "infra",
+  "반도체 진공펌프·배기가스 처리",
+  "펌프와 처리 제품군을 각각 비교",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://www.edwardsvacuum.com/en-us/semiconductor"
+ ],
+ [
+  "EBARA",
+  "infra",
+  "드라이 진공펌프·배기가스 처리 / 통합 시스템",
+  "펌프와 연소 처리 통합 제품 공개. 전 제품 동일 구성 아님",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://www.ebaratech.com/products/brochure/evis-system/"
+ ],
+ [
+  "유니셈",
+  "abatement",
+  "스크러버 / 칠러",
+  "가스 처리와 냉각은 별도 계통",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://unisem.co.kr/kor/main/"
+ ],
+ [
+  "GST",
+  "abatement",
+  "연소·플라즈마·습식·건식 처리 / 칠러 / 펌프 통합 처리",
+  "제품별 처리 가스·공정·용량 구분",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://www.gst-in.com/m21.php?cate=1"
+ ],
+ [
+  "지앤비에스 에코",
+  "abatement",
+  "무폐수 플라즈마 스크러버 등",
+  "무폐수는 팹 전체 무급수·무폐기물 의미 아님",
+  "공개 제품 역할 · 특정 기업 간 납품 미확정",
+  "https://gnbseco.com/en/sub/sub02_04_02.php"
+ ]
+]

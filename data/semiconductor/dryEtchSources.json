@@ -1,0 +1,14 @@
+{
+ "foosung": "https://www.foosungchem.com/eng/pro/product_cdt_view01.asp",
+ "ch2f2": "https://www.foosungchem.com/eng/pro/product_cdt_view02.asp",
+ "wonik": "https://www.wimco.co.kr/kr/product/semiconductor/",
+ "temc": "https://temc.co.kr/sub/sub02_04.php",
+ "kanto": "https://www.kantodenka.co.jp/english/product/gas/",
+ "ksg": "https://www.kantodenka.co.jp/english/product_new/",
+ "daikin": "https://www.daikinchemicals.com/solutions/products/semicon-etching-agents.html",
+ "air": "https://electronics.airliquide.com/enscribetm",
+ "flow": "https://www.horiba.com/ind/semiconductor/applications/etch/",
+ "etch": "https://www.appliedmaterials.com/us/en/semiconductor/products/shape.html",
+ "recipe": "https://www.isit.fraunhofer.de/en/technology/micro-manufacturing-processes/processes-on-wafer-level/rie.html",
+ "oxide": "https://doi.org/10.1002/ppap.70012"
+}
