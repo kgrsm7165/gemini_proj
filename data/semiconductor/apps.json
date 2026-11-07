@@ -1,0 +1,73 @@
+[
+ [
+  "ai",
+  "AI · 데이터센터",
+  [
+   "logic",
+   "dram",
+   "nand",
+   "analog",
+   "power"
+  ],
+  "가속기 연산, HBM 대역폭, 서버 메모리, 스토리지와 전력 변환"
+ ],
+ [
+  "mobile",
+  "모바일",
+  [
+   "logic",
+   "dram",
+   "nand",
+   "sensor",
+   "analog",
+   "power"
+  ],
+  "AP, LPDDR, UFS, 카메라와 전력·RF"
+ ],
+ [
+  "pc",
+  "PC · 소비자기기",
+  [
+   "logic",
+   "dram",
+   "nand",
+   "analog"
+  ],
+  "CPU, DRAM, SSD 및 주변 전원·제어"
+ ],
+ [
+  "auto",
+  "자동차 · ADAS",
+  [
+   "logic",
+   "dram",
+   "nand",
+   "analog",
+   "power",
+   "sensor"
+  ],
+  "자율주행 연산, 카메라, MCU와 전력 변환"
+ ],
+ [
+  "industry",
+  "산업 · 에너지",
+  [
+   "analog",
+   "power",
+   "sensor",
+   "logic"
+  ],
+  "산업 제어, 인버터, 전력 변환과 머신비전"
+ ],
+ [
+  "network",
+  "통신 · 네트워크",
+  [
+   "logic",
+   "dram",
+   "analog",
+   "power"
+  ],
+  "스위치 ASIC, 버퍼 메모리, RF와 전원"
+ ]
+]

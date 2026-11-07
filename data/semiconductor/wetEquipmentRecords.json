@@ -1,0 +1,82 @@
+[
+ [
+  "케이씨텍",
+  "clean",
+  "Wezen BF / BS · 300mm 배치식 세정",
+  "여러 웨이퍼를 약액조에서 처리 후 린스·IPA 건조",
+  "공정 기능 확인. 제품군별 DRAM/NAND/로직 및 고객 양산 매칭은 미확인",
+  "https://www.kctech.com/page/product1_2.php"
+ ],
+ [
+  "케이씨텍",
+  "clean",
+  "K-3000 · 매엽식 세정",
+  "독립 챔버에서 약액 처리·린스·건조. 공정 전 세정·폴리머 제거",
+  "SC-1·HF·BOE 등 공개 적용 범위. 특정 고객/세대 채택은 별도 근거 필요",
+  "https://www.kctech.com/page/product1_2.php"
+ ],
+ [
+  "케이씨텍",
+  "etch",
+  "K-3000 · Film Etch",
+  "막 식각과 웨이퍼 내 균일성 제어",
+  "HF·BOE 사용 공정 확인. 모든 NAND 인산 식각 지원으로 확대 해석하지 않음",
+  "https://www.kctech.com/page/product1_2.php"
+ ],
+ [
+  "제우스",
+  "clean",
+  "ION12 · 300mm 매엽식",
+  "FEOL/BEOL, 식각 후 및 공정 전후 세정. 흐름·배기 제어",
+  "공정 위치를 공개. DRAM/NAND 고객별 양산 배정은 미확인",
+  "https://www.globalzeus.com/kr/sub/products/detail.asp?p_idx=7"
+ ],
+ [
+  "제우스",
+  "clean",
+  "VENUS · 고온 SPM / PR 스트립",
+  "고온 황산·과산화수소 공정. 스트립·세정 챔버 분리",
+  "회사 명시 용도: PR strip, Post CMP cleaning, Post PLAD strip. 성능 우위 비교는 동일 조건 자료 필요",
+  "https://www.globalzeus.com/kr/sub/products/detail.asp?p_idx=11"
+ ],
+ [
+  "제우스",
+  "etch",
+  "Wet Etching & Cleaning 장비군",
+  "매엽식·배치식으로 습식 식각/세정 지원",
+  "제품군 확인. ION12나 VENUS의 모든 막 식각 기능을 일괄 확정하지 않음",
+  "https://www.globalzeus.com/kr/sub/products/list.asp?p_cate=1010"
+ ],
+ [
+  "Tokyo Electron",
+  "etch",
+  "EXPEDIUS · 3D NAND 고선택비 습식 식각",
+  "3D NAND 산화막/질화막 고선택비 습식 식각",
+  "장비와 적용 제품군·공정까지 공식 명시. 고객·층수·점유율은 미확인",
+  "https://www.tel.com/product/expedius.html"
+ ],
+ [
+  "Tokyo Electron",
+  "clean",
+  "EXPEDIUS · 배치식 세정/스트립",
+  "산화·확산 전 세정, 식각 후 세정, PR 스트립",
+  "동일 플랫폼의 여러 기능이며 고객의 실제 구성은 별도 확인",
+  "https://www.tel.com/product/expedius.html"
+ ],
+ [
+  "SCREEN",
+  "clean",
+  "FC-3100 Wet Station / SU-3400 Single Wafer Cleaner",
+  "배치식 웨트 스테이션과 매엽식 세정 장비군",
+  "공식 제품군 확인. 제품·고객별 약액/공정 채택은 미확인",
+  "https://www.screen.co.jp/spe/en/products"
+ ],
+ [
+  "SCREEN",
+  "etch",
+  "습식 식각 기술 · SiGe 등",
+  "IR 자료에서 로직 SiGe 식각 등 습식 식각 기술 설명",
+  "기술/적용 분야 발표 수준. 특정 모델의 고객 양산 채택으로 연결하지 않음",
+  "https://hdjp-corporateweb-files.screen.co.jp/7617/4911/1188/20240919_Mtg_E.pdf"
+ ]
+]

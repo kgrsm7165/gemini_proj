@@ -1,0 +1,109 @@
+{
+ "verifiedDate": "2026-10-21",
+ "korean": [
+  [
+   "멜콘",
+   "공급사 등록 확인",
+   "XPS / XCDA 정제·환경제어",
+   "공식 연혁에 2025년 ASML Supplier 등록 명시. EUV·DUV용 제품군 확인. 현재 ASML 직접 매출·특정 노광기 모델의 납품은 별도 확인.",
+   "2025년 등록 / 제품 페이지 확인",
+   "https://www.melcon.co.kr/page/history.html",
+   "https://www.melcon.co.kr/page/product-2.html"
+  ],
+  [
+   "아이엠티",
+   "과거 공동개발 보도",
+   "EUV 마스크 레이저 베이킹",
+   "공식 제품은 EUV 마스크 열처리. ASML 협력은 2009년 공동개발 보도로 기록하며 현재 직접 공급사로 확정하지 않음.",
+   "2009년 협력 보도 / 현재 제품 확인",
+   "https://www.etnews.com/200902090129",
+   "https://imt-c.co.kr/eng/sub2_3_1.php"
+  ],
+  [
+   "이솔",
+   "기술 연관 · 직접 거래 미확인",
+   "EUV 마스크 검사 · 펠리클 계측",
+   "FREM: 마스크 결함·CD 평가, 0.33/0.55 NA 대응 표기. ASML에 장비를 납품한다는 근거는 이번 확인 범위에 없음.",
+   "제품 페이지 확인",
+   "https://www.euvsol.com/sub/product/frem.php",
+   "https://www.euvsol.com/"
+  ],
+  [
+   "에프에스티",
+   "기술 연관 · 직접 거래 미확인",
+   "펠리클 · EUV 주변 인프라",
+   "노광 중 마스크 오염을 막는 보호막 분야. EUV/DUV 제품별 양산·고객 인증과 ASML 직접 공급은 각각 별도 확인.",
+   "제품 페이지 확인",
+   "https://www.fstc.co.kr/bbs/board.php?bo_table=page_pellicle_ko_2",
+   "https://www.fstc.co.kr/"
+  ],
+  [
+   "에스앤에스텍",
+   "기술 연관 · 직접 거래 미확인",
+   "블랭크마스크 · 펠리클",
+   "블랭크마스크는 마스크 제조용 원소재, 펠리클은 보호막. 이번 맵의 등록 범위만으로 ASML 직접 납품사로 연결하지 않음.",
+   "제품 페이지 확인",
+   "https://snstech.co.kr/ko/business/blank-mask",
+   "https://snstech.co.kr/ko/business/pellicle"
+  ],
+  [
+   "동진쎄미켐",
+   "기술 연관 · 직접 거래 미확인",
+   "PR · BARC · SOC · 신너",
+   "노광 전후 패터닝 소재. 일반 포토 소재 사업을 근거로 특정 ASML EUV 모델의 채택·납품을 확정하지 않음.",
+   "제품 페이지 확인",
+   "https://www.dongjin.com/en/business/semiconductor.php",
+   "https://www.dongjin.com/en/company/be_domestic.php"
+  ]
+ ],
+ "global": [
+  [
+   "ZEISS SMT",
+   "광학계 공급 · 지분 협력",
+   "EUV 반사 광학계 / DUV 광학계. ASML의 ZEISS SMT 지분 협력도 별도 존재.",
+   "https://www.asml.com/en/company/stories/2022/making-euv-lab-to-fab"
+  ],
+  [
+   "TRUMPF",
+   "핵심 모듈 공급",
+   "EUV 광원용 고출력 레이저. 노광기 전체 공급사와 구분.",
+   "https://www.asml.com/en/company/stories/2022/making-euv-lab-to-fab"
+  ],
+  [
+   "VDL ETG",
+   "모듈·정밀 제조 공급",
+   "ASML용 정밀 모듈 및 ZEISS용 프레임. 제품별 공급 단계는 다름.",
+   "https://www.vdlindustrialmodules.nl/en/news/vdl-etg-builds-complex-frames-for-zeiss"
+  ],
+  [
+   "NTS",
+   "1차 공급사",
+   "정밀 메카트로닉스 시스템. ASML 공식 파트너 소개에서 확인.",
+   "https://www.asml.com/careers/jobs-at-asml-partners"
+  ],
+  [
+   "Mitsui Chemicals",
+   "기술 라이선스 · 펠리클 사업",
+   "ASML 설계·기술 기반 EUV 펠리클 라이선스 및 상업 생산 발표.",
+   "https://ap.mitsuichemicals.com/mci/mci-news/2021/2021_0526/index.htm"
+  ],
+  [
+   "Tokyo Electron",
+   "공정 연계 · 공동연구",
+   "도포·현상 트랙과 ASML 노광기의 인라인 연계. imec-ASML High NA 연구소 협력.",
+   "https://www.tel.com/news/topics/2021/20210608_001.html"
+  ],
+  [
+   "Cymer",
+   "ASML 그룹 내부",
+   "ASML이 2013년 인수한 광원 사업. 독립 외부 공급사와 구분.",
+   "https://www.asml.com/en/company/about-asml/cymer"
+  ],
+  [
+   "HMI",
+   "ASML 그룹 내부",
+   "ASML이 인수한 전자빔 검사·계측 사업.",
+   "https://www.asml.com/en/news/press-releases/2016/asml-completes-acquisition-of-hmi"
+  ]
+ ]
+}
